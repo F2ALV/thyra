@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777759181465",
+    "firebase_url": "https://gn-signin.firebaseio.com",
+    "project_id": "gn-signin",
+    "storage_bucket": "gn-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777759181465:android:ecb99d97dc825b1be60608",
+        "android_client_info": {
+          "package_name": "com.thyra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777759181465-vha4ht9hinl4qumpc73ahvlj96nilflp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thyra",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "777759181465-8d11lrue68k72g188v659rm397stcfje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAU3B_x3Ewzq_9UrlLomHcDKT7VDD44Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777759181465-8d11lrue68k72g188v659rm397stcfje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
